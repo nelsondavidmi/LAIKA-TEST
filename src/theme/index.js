@@ -1,13 +1,17 @@
 import {Platform} from 'react-native';
 
 export const pallet = {
-  laikaColor: '#653F90',
-  primaryColor: '#653F90',
+  laikaColor: '#653f90',
+  primaryColor: '#a47dd0',
   secondaryColor: '#9b50b5',
   green: '#4fe8ba',
-  yellowGold: '#ffd602',
+  yellowGold: '#ffc200',
   blueSky: '#6670e8',
   orange: '#ff6b00',
+  white: '#fff',
+  purpleVariant: '#8a5dbc',
+  black: 'black',
+  plum: '#bf93f1',
 };
 
 export const fonts = {
